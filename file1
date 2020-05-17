@@ -1,8 +1,5 @@
 hello firdst line
 feature branch code
 secondline in feature
-<<<<<<< HEAD
 sendline in master
-=======
 third in feature
->>>>>>> feature
